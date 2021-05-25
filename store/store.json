@@ -1,45 +1,114 @@
 [
-    {
-        "id": 1,
-        "price": 52.20,
-        "name": "1 Product",
-        "desc": "Simple product",
-        "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
-        "piecesIncluded": 1
-    },
-    {
-        "id": 2,
-        "price": 12,
-        "name": "2 Product",
-        "desc": "Second product",
-        "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
-        "piecesIncluded": 5
-    },
-    {
-        "id": 3,
-        "price": 3.20,
-        "name": "1 Product",
-        "desc": "Simple product",
-        "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
-        "piecesIncluded": 1
-    },
-    {
-        "id": 4,
-        "price": 4.20,
-        "name": ":> Product",
-        "desc": "Good product",
-        "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
-        "piecesIncluded": 1
-    },
-    {
-        "id": 5,
-        "price": 250,
-        "name": "Hello",
-        "desc": "Simple product",
-        "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
-        "piecesIncluded": 12
-    }  
+  {
+    "id": 1,
+    "price": 52.2,
+    "name": "1 Product",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 2,
+    "price": 12,
+    "name": "2 Product",
+    "desc": "Second product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 5
+  },
+  {
+    "id": 3,
+    "price": 3.2,
+    "name": "1 Product",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 4,
+    "price": 4.2,
+    "name": ":> Product",
+    "desc": "Good product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  },
+  {
+    "id": 1,
+    "price": 52.2,
+    "name": "1 Product",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 2,
+    "price": 12,
+    "name": "2 Product",
+    "desc": "Second product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 5
+  },
+  {
+    "id": 3,
+    "price": 3.2,
+    "name": "1 Product",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 4,
+    "price": 4.2,
+    "name": ":> Product",
+    "desc": "Good product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 1
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  },
+  {
+    "id": 5,
+    "price": 250,
+    "name": "Hello",
+    "desc": "Simple product",
+    "photoUrl": "https://webkit.org/demos/srcset/image-src.png",
+    "piecesIncluded": 12
+  }
 ]
-
-
-
